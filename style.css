@@ -6,6 +6,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background: #231814;
+}
+
+h1 {
+    font-family: cursive ,sans-serif;
+    color: #FFF;
+    text-align: center;
 }
 
 .slider {
@@ -13,6 +20,7 @@ body {
     width: 800px;
     height: 400px;
     overflow: hidden;
+    border: 8px solid #553020;
 }
 
 .slides {
